@@ -1,0 +1,60 @@
+body{
+    background-color: beige;
+}
+h2{
+    text-align: left;
+    color: #7814FF;
+    padding-left: 35px;
+    font-family: 'Segoe UI';
+    font-size: xx-large;
+}
+
+label{
+    color: #7814FF;
+    padding: 30px;
+    font-family: 'Segoe UI';
+}
+
+.w3-container{
+    margin: auto;
+    border-radius: 10px;    
+    align-self: center;
+    background-color: white;
+    height: 400px;
+    width: 600px;
+    border: 1px solid black;
+    padding-top: 2px;
+    padding-left: 35px;
+}
+
+button{
+    border-radius: 7px;
+    background-color: #7814FF;
+    width: 80px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI';
+}
+
+#divBut{
+    margin-top: -29px;
+    margin-left: 300px;
+}
+
+#confirmar{
+    border-radius: 7px;
+    background-color: #7814FF;
+    width: 80px;
+    height: 35px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Segoe UI';
+    margin-left: 250px;
+}
+select{
+    width: 70%;
+}
+#id_conc{
+    width: 62%;
+}
